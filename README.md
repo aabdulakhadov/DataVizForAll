@@ -13,24 +13,24 @@ I am excited to delve into the course on "Telling Stories with Data" because I a
 
 # Portfolio
 ## Week one
-### Controlling Color
-### Data visualization critique #1
+  ### Controlling Color
+  ### Data visualization critique #1
 
 ## Week two
-### Data visualization #1
-### Crafting for Clarity
+  ### Data visualization #1
+  ### Crafting for Clarity
 
 ## Week three
-### Critique by Design
+  ### Critique by Design
 
 ## Week four
-### Choosing Chart Types
+  ### Choosing Chart Types
 
 ## Week five
-### Practicing Persuasion
+  ### Practicing Persuasion
 
 ## Week six
-### Final Project
+  ### Final Project
 
 ## Week seven
-### Final Project
+  ### Final Project
