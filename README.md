@@ -20,6 +20,7 @@ I am excited to delve into the course on "Telling Stories with Data" because I a
   - Data visualization #1
     
     You can view the interactive data by clicking here: [General government debt % of GDP, 2022](https://data-viewer.oecd.org?chartId=b4130eeb-a6a7-440b-91fc-8e02e55a6bb0)
+    [General government debt % of GDP, 2022](/dataviz2.md)
   
   - Crafting for Clarity
 
