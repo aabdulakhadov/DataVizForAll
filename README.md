@@ -19,7 +19,11 @@ I am excited to delve into the course on "Telling Stories with Data" because I a
 ## Week two
   - Data visualization #1
     General government debt % of GDP, 2022
-    https://data-viewer.oecd.org/?chartId=5b2eb332-384d-4421-a319-ee99ac4bd972
+
+    <iframe src="https://data-viewer.oecd.org?chartId=b4130eeb-a6a7-440b-91fc-8e02e55a6bb0" style="border: none"; allowfullscreen="true">;
+    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=b4130eeb-a6a7-440b-91fc-8e02e55a6bb0" target="_blank">Dataflow</a>
+  </iframe>;
+  
   - Crafting for Clarity
 
 ## Week three
