@@ -11,7 +11,7 @@ I have a wonderful family with four kids and a lovely, supportive wife (our youn
 # What I hope to learn
 I am excited to delve into the course on "Telling Stories with Data" because I am passionate about transforming complex data into compelling narratives. I hope to learn effective techniques for visualizing data, creating impactful presentations, and using storytelling to communicate insights clearly and persuasively.
 
-# Portfolio (blueprint)
+# Portfolio
 ## Week one
   - Controlling Color
   - Data visualization critique #1
