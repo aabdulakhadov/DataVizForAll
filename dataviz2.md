@@ -3,10 +3,6 @@
 
 
 
-<iframe src="https://data-viewer.oecd.org?chartId=b4130eeb-a6a7-440b-91fc-8e02e55a6bb0" style="border: none"; allowfullscreen="true">;
-  <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=b4130eeb-a6a7-440b-91fc-8e02e55a6bb0" target="_blank">Dataflow</a>
-</iframe>;
-
 <div class='tableauPlaceholder' id='viz1725923321336' style='position: relative'><noscript><a href='#'><img alt='General government debt Viz ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;General_government_debt_Viz&#47;GeneralgovernmentdebtViz&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='General_government_debt_Viz&#47;GeneralgovernmentdebtViz' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;General_government_debt_Viz&#47;GeneralgovernmentdebtViz&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
 <script type='text/javascript'>
