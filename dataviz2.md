@@ -21,9 +21,9 @@ The slope chart below illustrates the performance of government debt as a percen
 2. **Post-Crisis Recovery and Recent Trends (2013–2018)**: This period reflects the global recovery phase and recent economic trends.
 The chart highlights three countries—**Greece**, **the USA**, and **Estonia**—which demonstrated notably different levels of government debt as a percentage of GDP over these periods:
 
-- Greece: Exhibited a very high level of government debt relative to its GDP, reflecting the severe impact of the financial crisis and subsequent austerity measures.
-- USA: Showed a medium level of government debt, influenced by stimulus measures during the crisis and gradual recovery in subsequent years.
-- Estonia: Maintained a low level of government debt, demonstrating fiscal discipline and conservative economic management during both the crisis and recovery periods.
+- **Greece**: Exhibited a **very high level** of government debt relative to its GDP, reflecting the severe impact of the financial crisis and subsequent austerity measures.
+- **USA**: Showed a **medium level** of government debt, influenced by stimulus measures during the crisis and gradual recovery in subsequent years.
+- **Estonia**: Maintained a **low level** of government debt, demonstrating fiscal discipline and conservative economic management during both the crisis and recovery periods.
 
 This slope chart provides a clear visual representation of how different countries managed their government debt during the financial crisis, recovery, and recent economic trends. 
 
