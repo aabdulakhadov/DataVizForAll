@@ -12,11 +12,9 @@ I have a wonderful family with four kids and a lovely, supportive wife (our youn
 I am excited to delve into the course on "Telling Stories with Data" because I am passionate about transforming complex data into compelling narratives. I hope to learn effective techniques for visualizing data, creating impactful presentations, and using storytelling to communicate insights clearly and persuasively.
 
 # Portfolio
-## Week one
-  - Controlling Color
-  - Data visualization critique #1
+## Assignment: [Visualizing government Debt](/visualizing-government-debt.md)
 
-## Week two
+## Assignment 3&4: [Critique by Design](/critique-by-design.md)
   - Data visualization #1
     
     You can view the Government Debt visualizations [here](/dataviz2.md)
