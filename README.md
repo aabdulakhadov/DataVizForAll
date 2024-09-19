@@ -15,3 +15,5 @@ I am excited to delve into the course on "Telling Stories with Data" because I a
 ## Assignment: [Visualizing government Debt](/visualizing-government-debt.md)
 
 ## Assignment 3&4: [Critique by Design](/critique-by-design.md)
+
+## Final Project: [Part 1](/Final-project-part1) | [Part 2](/Final-project-part2)
