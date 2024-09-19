@@ -1,7 +1,7 @@
 # Step One: Choose a Data Visualization
 For this critique, I selected the donut chart presented on page 25 of the "Global 500 2023" [report](https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf) by Brand Finance. The chart demonstrates the proportional distribution of brand value across countries, with a clear emphasis on the United States and China.
 
-<img src="Sketch Bubble chart.jpg" width="500"/> 
+<img src="Global 500 2023 Donut chart.jpg" width="500"/> 
 
 # Step Two: Critique the Data Visualization
 The original donut chart has several strengths and limitations:
