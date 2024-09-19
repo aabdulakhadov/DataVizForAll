@@ -13,7 +13,7 @@ The original donut chart has several strengths and limitations:
 - **Effective use of donut chart:** It visually highlights the dominance of major countries (USA, China) in global brand value.
 - **Clean layout:** The combination of the donut chart with a table makes it easy to understand the contributions from each country.
 ### Limitations:
-- **Minority countries underrepresented:** Countries like South Korea and Canada are difficult to distinguish due to the small size of their slices.
+- **Minority countries underrepresented:** Countries like South Korea, Canada and India are difficult to distinguish due to the small size of their slices.
 - **Eye travel issue:** Users frequently need to shift between the chart and the legend/table, which can reduce the overall ease of comprehension.
 - **Lack of per-brand value insight:** The chart only reflects total brand value, missing a crucial opportunity to show average brand value per brand for each country.
 
