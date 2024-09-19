@@ -40,5 +40,6 @@ The chart highlights three countries—**Greece**, **the USA**, and **Estonia**�
 
 This slope chart provides a clear visual representation of how different countries managed their government debt during the financial crisis, recovery, and recent economic trends.
 
+Source: @‘General Government Debt’. OECD, https://www.oecd.org/en/data/indicators/general-government-debt.html. Accessed 10 Sept. 2024.
 
 [Return to Main Portfolio](/README.md)
