@@ -3,6 +3,8 @@ For this critique, I selected the donut chart presented on page 25 of the "Globa
 
 <img src="Global 500 2023 Donut chart.jpg" width="500"/> 
 
+Source: @Brand Finance. Global 500 2023. https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf.
+
 # Step Two: Critique the Data Visualization
 The original donut chart has several strengths and limitations:
 
