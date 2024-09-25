@@ -6,7 +6,11 @@ The project aims to analyze global trends in Information and Communication Techn
 This project will explore the leading countries in ICT service exports, the major importers of these services, and the potential risks of over-dependence on foreign ICT vendors. The analysis will provide insights into how ICT can reshape economies and offer strategic advantages, while also highlighting the challenges of reliance on external service providers.
 
 ## Sketches
+**Race Bar Chart Sketch**
+<img src="Race Bar Chart.jpg" width="500"/>
 
+**Sankey Diagram Sketch**
+<img src="Sankey Diagram.jpg" width="500"/>
 
 ## Data Source Documentation
 For this project, I will use two primary datasets to analyze global ICT service exports:
