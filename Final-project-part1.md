@@ -23,7 +23,7 @@ I will use this time series data to create a ***race bar chart*** that visualize
 For the second dataset, I am looking to acquire ICT import data to identify which countries are importing ICT services and from whom. This dataset will allow for an analysis of the flow of ICT services across borders. I aim to find data that details the country-to-country export-import relationships.
 
 **Usage:**
-The ICT import data will be visualized using a ***Sankey diagram***, which is ideal for showing flows between entities. This visualization will help the audience observe the intricate connections between exporting and importing countries, illustrating the dependency relationships between nations in the ICT sector.
+The ICT import data will be visualized using a ***Sankey diagram***, which is ideal for showing flows between countries. This visualization will help the audience observe the intricate connections between exporting and importing countries, illustrating the dependency relationships between nations in the ICT sector.
 
 Together, these datasets will provide a complete picture of ICT service trade, showing both the export leadership of countries and the flow of services to recipient nations.
 
