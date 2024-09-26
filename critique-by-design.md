@@ -35,7 +35,7 @@ I tested my proposed bubble chart with two users and gathered the following feed
 
 - **Feedback 2 (Student, late-30s):** This user found the x-axis label small and difficult to read. They also suggested adjusting the y-axis scale to reduce the number of ticks and make the axis easier to interpret.
 
-## Step five: Build your solution
+## Step Five: Build your solution
 The bubble chart below illustrates the Top 500 Brand values by country. As shown, the US leads with a total brand value of $3,981.2 billion. However, this is achieved with 201 brands, which accounts for more than 40% of the total number of brands. Notably, South Korea stands out with the highest average brand value among all countries depicted on the chart. By hovering over each bubble, you can view a tooltip showing precise figures, including the number of countries (y-axis), average brand values (x-axis), and the total brand value represented by the bubble size.
 
 **Note:** *For full visibility and interaction with the chart, please click on the frame icon in the bottom right corner.*
