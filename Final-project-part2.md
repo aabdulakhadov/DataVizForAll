@@ -1,8 +1,15 @@
 # Final Project Part 2
 ## Wireframes and storyboards
-The project aims to analyze global trends in Information and Communication Technology (ICT) service exports, focusing on how these exports have become a key revenue stream for underdeveloped and landlocked countries. Due to the high costs associated with exporting goods—such as manufacturing, transportation, and tariffs—many of these nations are shifting towards ICT services, which are less resource-intensive and more competitive in the international market. 
+**Setup – Let me show you some reality**
+In the setup, I'll introduce the topic by highlighting some key facts about IT outsourcing. IT outsourcing has become a global phenomenon, with many countries playing significant roles as IT service exporters. By analyzing IT export volume data across various countries, we'll see which nations lead the industry and understand why so many companies choose to outsource. We'll also explore the primary drivers behind IT outsourcing, such as cost-effectiveness which make it an appealing option for businesses worldwide.
 
-This project will explore the leading countries in ICT service exports, the major importers of these services, and the potential risks of over-dependence on foreign ICT vendors. The analysis will provide insights into how ICT can reshape economies and offer strategic advantages, while also highlighting the challenges of reliance on external service providers.
+**Conflict – Here is something that happened to that reality**
+However, while outsourcing is appealing, it is not without its risks. This section will examine major failures in IT outsourcing projects that cost companies dearly. I'll focus on two significant examples: the Boeing 737MAX software failure, which was linked to outsourced engineering, and the Queensland Health & IBM case, where an outsourced payroll system led to financial losses and reputational damage. These failures show that while outsourcing may promise cost savings, the wrong execution can result in massive losses.
+
+**Resolution – Here is the new conflict after the new reality**
+Finally, the resolution will present actionable recommendations for businesses considering outsourcing IT projects. I'll provide strategic advice on how to avoid outsourcing pitfalls, emphasizing the importance of due diligence, clear communication, and prioritizing quality over cost alone. This section will conclude with a call to action, urging company owners to recognize that while outsourcing can reduce costs, improper management can lead to greater, long-term expenses.
+
+[Wireframes and Storyboards draft](https://preview.shorthand.com/G7eSFvpFAPu4oHmy)
 
 ## Design: data visualizations
 **Race Bar Chart Sketch**
@@ -50,7 +57,7 @@ This project will explore the leading countries in ICT service exports, the majo
 - Were you able to interact with or interpret the data easily? What would make this experience better?
 
 **5. Target Audience Fit**
-- Do you feel like this story fits with what you would expect, given the target audience (government officials responsible for IT, everyday users of IT)?
+- Do you feel like this story fits with what you would expect, given the target audience (government officials responsible for IT, company owners)?
 - What additional information or context would you need to fully understand the story?
 
 **6. Suggestions for Improvement**
@@ -59,5 +66,23 @@ This project will explore the leading countries in ICT service exports, the majo
   
 ### User research: findings
 
+**1st Interviewee (Student, mid-20s):**
+
+He mentioned that the title does not fully reflect the focus on IT dependencies as covered in the story. He suggested that the design would benefit from using visually appealing IT-related images. Additionally, he noted that there are few data visualizations and recommended adding a couple more to better support the narrative.
+
+**2nd Interviewee (Student, mid-20s):**
+
+She observed that the story should delve into more detail, especially considering the target audience. She also commented that the race bar chart might not be the best fit for this story, as it requires the audience to wait for the data to unfold. A simple bar chart would be more effective.
+
+**3rd Interviewee (Student, 29):**
+He suggested that a world map highlighting countries with relevant data would significantly enhance the story and support the global context of IT outsourcing.
+
+**Planned Changes Based on Feedback**
+
+- Revise Title: Change the title to better reflect the theme or to add data on IT dependencies.
+- Enhance Visuals: Incorporate more IT-related images to make the design visually appealing and engaging.
+- Increase Data Visualizations: Add additional data visualizations to support key points in the story and ensure each has a clear purpose.
+- Simplify Charts: Replace the race bar chart with simpler bar charts for better clarity and immediate comprehension.
+- Add a Summary: Include a concluding section with key takeaways to reinforce the main points of the narrative.
 
 [Return to Main Portfolio](/README.md)
