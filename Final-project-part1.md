@@ -34,4 +34,4 @@ Together, these datasets will provide a complete picture of ICT service trade, s
 ## Method and medium
 For the final project, I am tentatively planning to use [***ArcGIS Story Maps***](https://storymaps.arcgis.com/) as the primary platform for documenting and presenting my analysis. While I am also considering [***Shorthand***](https://shorthand.com/), I haven't fully explored its capabilities yet. To create the visualizations, I plan to use [***Flourish Studio***](https://app.flourish.studio/projects) for the race bar chart, as it is well-suited for creating interactive visualizations. For the Sankey diagram, I will either use [***Tableau***](https://www.tableau.com/) or ***Flourish Studio*** to ensure consistency in the design and style of the visual elements
 
-
+[Return to Main Portfolio](/README.md)
