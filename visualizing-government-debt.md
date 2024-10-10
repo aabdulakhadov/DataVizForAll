@@ -1,3 +1,5 @@
+| home page | Visualizing government Debt | Critique by Design | Final Project Part 1 | Final Project Part 2 | final project III |
+
 # Visualizing Government Debt
 ## Part one: Working with web-based visualization tools and data
 
