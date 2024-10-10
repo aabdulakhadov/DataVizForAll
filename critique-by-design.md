@@ -1,3 +1,5 @@
+| [home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [final project III](final-project-part-three) |
+
 # Critique By Design
 ## Step One: Choose a Data Visualization
 For this critique, I selected the donut chart presented on page 25 of the "Global 500 2023" [report](https://static.brandirectory.com/reports/brand-finance-global-500-2023-preview.pdf) by Brand Finance. The chart demonstrates the proportional distribution of brand value across countries, with a clear emphasis on the United States and China.
