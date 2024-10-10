@@ -1,4 +1,4 @@
-| home page | Visualizing government Debt | Critique by Design | Final Project Part 1 | Final Project Part 2 | final project III |
+| [home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Critique by Design](/critique-by-design.md) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [final project III](final-project-part-three) |
 
 # Visualizing Government Debt
 ## Part one: Working with web-based visualization tools and data
