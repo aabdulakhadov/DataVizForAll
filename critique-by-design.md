@@ -1,4 +1,4 @@
-| [home page](https://aabdulakhadov.github.io/Portfolio/) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [final project III](final-project-part-three) |
+| [home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Critique by Design](/critique-by-design.md) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [final project III](final-project-part-three) |
 
 # Critique By Design
 ## Step One: Choose a Data Visualization
