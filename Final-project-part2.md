@@ -1,3 +1,5 @@
+| [home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Critique by Design](/critique-by-design.md) | [Final Project Part 1](/Final-project-part1.md) | [final project III](final-project-part-three) |
+
 # Final Project Part 2
 ## Wireframes and storyboards
 **Setup – Let me show you some reality**
