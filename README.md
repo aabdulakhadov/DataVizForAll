@@ -1,4 +1,4 @@
-| [Home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Critique by Design](/critique-by-design.md) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [final project III](final-project-part-three) |
+| [Home page](https://aabdulakhadov.github.io/Portfolio/) | [Visualizing government Debt](/visualizing-government-debt.md) | [Critique by Design](/critique-by-design.md) | [Final Project Part 1](/Final-project-part1.md) | [Final Project Part 2](/Final-project-part2.md) | [Final project III](Final-project-part-three) |
 
 # Portfolio
 This is my public portfolio with Telling Stories with Data at CMU!
@@ -20,4 +20,4 @@ In this assignment, I explored and visualized government debt-to-GDP ratio data 
 ## Assignment 3&4: [Critique by Design](/critique-by-design.md)
 For this assignment, I selected and redesigned a data visualization from [MakeoverMonday](https://makeovermonday.co.uk/), applying critique and redesign process. I started by identifying strengths and areas for improvement. I then sketched out redesign ideas, tested them with user feedback, and refined my approach based on this input. Finally, I built a polished bubble chart in Tableau, aiming to enhance clarity and data communication.
 
-## Final Project: [Part 1](/Final-project-part1.md) | [Part 2](/Final-project-part2.md)
+## Final Project: [Part 1](/Final-project-part1.md) | [Part 2](/Final-project-part2.md) [Part 3](/Final-project-part2.md)
