@@ -20,4 +20,4 @@ In this assignment, I explored and visualized government debt-to-GDP ratio data 
 ## Assignment 3&4: [Critique by Design](/critique-by-design.md)
 For this assignment, I selected and redesigned a data visualization from [MakeoverMonday](https://makeovermonday.co.uk/), applying critique and redesign process. I started by identifying strengths and areas for improvement. I then sketched out redesign ideas, tested them with user feedback, and refined my approach based on this input. Finally, I built a polished bubble chart in Tableau, aiming to enhance clarity and data communication.
 
-## Final Project: [Part I](/Final-project-part1.md) | [Part II](/Final-project-part2.md) | [Part III](/Final-project-part2.md)
+## Final Project: [Part I](/Final-project-part1.md) | [Part II](/Final-project-part2.md) | [Part III](/Final-project-part3.md)
